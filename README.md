@@ -5,7 +5,7 @@ Home: https://github.com/aws/sagemaker-tensorflow-container
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: SageMaker TensorFlow Containers is an open source library for making the TensorFlow framework run on Amazon SageMaker.
 
